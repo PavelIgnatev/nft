@@ -1,0 +1,181 @@
+{
+    "common": {
+        "team": {
+            "title": {
+                "en": "Team",
+                "ru": "Команда",
+                "tat": "Команда"
+            },
+            "rustam": {
+                "name": {
+                    "en": "Young Rustam",
+                    "ru": "Young Rustam",
+                    "tat": "Young Rustam"
+                },
+                "work": {
+                    "en": "Developer, designer",
+                    "ru": "Разработчик, дизайнер",
+                    "tat": "Разработчик, дизайнчы"
+                }
+            },
+            "pavel": {
+                "name": {
+                    "en": "Young Pavel",
+                    "ru": "Young Pavel",
+                    "tat": "Young Pavel"
+                },
+                "work": {
+                    "en": "Developer, designer",
+                    "ru": "Разработчик, дизайнер",
+                    "tat": "Разработчик, дизайнчы"
+                }
+            }
+        },
+        "about": {
+            "title": {
+                "en": "About the project",
+                "ru": "О проекте",
+                "tat": "Проект турында"
+            },
+            "subtitle": {
+                "en": "Akbars is a collection of more than 116 leopards and popularizing the Tatar language all over the world",
+                "ru": "Akbars - коллекция, насчитывающая более 116 барсов и популяризирущая татарский язык во всем мире",
+                "tat": "Akbars - 116 барстан артык барсны үз эченә алган һәм бөтен дөньяда татар телен популярлаштыручы Коллекция."
+            },
+            "info": {
+                "nft": {
+                    "title": {
+                        "en": "How do I get an NFT?",
+                        "ru": "Как получить NFT?",
+                        "tat": "Ничек алырга NFT?"
+                    },
+                    "subtitle": {
+                        "en": "There are two ways to get an NFT: buy a token of the collection on OpenSea, get an NFT for free by showing interest in the culture and national language of Tatarstan",
+                        "ru": "Существует два способа получить NFT: купить токен колекции на OpenSea, получить NFT бесплатно, проявляя интерес к культуре и национальному языку Татарстана",
+                        "tat": "Бар ике ысулын алырга NFT: сатып алырга токен коллекциясен OpenSea, алырга NFT бушлай, күрсәтеп, кызыксыну мәдәният һәм милли тел."
+                    }
+                },
+                "how": {
+                    "title": {
+                        "en": "What can I do with the NFT I received?",
+                        "ru": "Что я могу сделать с полученной NFT?",
+                        "tat": "Мин нәрсә эшли алам белән алынган НФТ?"
+                    },
+                    "subtitle": {
+                        "en": "You can sell your NFT on the OpenSea Market to another art lover. Use your NFT in the PlayToLearn game as a character with its own unique properties",
+                        "ru": "Вы можете продать свою NFT на маркете OpenSea другому ценителю исскуства. Используйте вашу NFT в PlayToLearn игре как персонажа, наделенного своими уникальными свойствами",
+                        "tat": "Сез сатарга үз NFT бу маркете OpenSea башка ценителю сәнгать. Используйте сезнең NFT PlayToLearn уенда буларак, персонажа, наделенного үз уникаль үзлекләре"
+                    }
+                },
+                "feature": {
+                    "title": {
+                        "en": "What is special about Akbars?",
+                        "ru": "В чем особенность Akbars?",
+                        "tat": "Бу үзенчәлеге Akbars?"
+                    },
+                    "subtitle": {
+                        "en": "Akbars NFT's are already popularizing the Tatar language around the world, thereby increasing the interest of users in learning the national features of the Republic of Tatarstan",
+                        "ru": "Akbars NFT's уже сейчас популяризируют татарский язык во всем мире, тем самым повышается заинтересованность пользователей к изучению национальных особенностей республики Татарстан",
+                        "tat": "Akbars NFT's инде хәзер үк бөтен дөньяда татар телен популярлаштыралар, шуның белән кулланучыларның Татарстан Республикасының милли үзенчәлекләрен өйрәнүгә кызыксынуы арта."
+                    }
+                }
+            }
+        },
+        "home": {
+            "next": {
+                "title": {
+                    "en": "Subsequent events",
+                    "ru": "Следующие события",
+                    "tat": "Киләсе вакыйгалар"
+                }
+            },
+            "title": {
+                "en": "Become a culture guardian",
+                "ru": "Стань хранителем культуры",
+                "tat": "Татар мәдәниятен саклаучы бул"
+            },
+            "subtitle": {
+                "en": "Participate in the historical events of the Republic of Tatarstan, visit interesting places, enjoy learning the Tatar language",
+                "ru": "Участвуй в исторических событиях Республики Татарстан, посещай интересные места, получай удовольствие от изучения Татарского языка",
+                "tat": "Татарстан Республикасының тарихи вакыйгаларында катнашыгыз, кызыклы урыннарда булыгыз, татар телен өйрәнүдән ләззәт алыгыз"
+            },
+            "button": {
+                "en": "View in OpenSea",
+                "ru": "Открыть OpenSea",
+                "tat": "OpenSea Ачу"
+            },
+            "twitter": {
+                "en": "Twitter",
+                "ru": "Twitter",
+                "tat": "Twitter"
+            }
+        },
+        "vision": {
+            "title": {
+                "en": "Akbars Vision",
+                "ru": "Виденье Akbars",
+                "tat": "Күрем Akbars"
+            },
+            "nft": {
+                "title": {
+                    "en": "First Stage - NFT",
+                    "ru": "Первый этап - NFT",
+                    "tat": "Беренче этап-NFT"
+                },
+                "subtitle": {
+                    "en": "The release of a collection of more than 116 Bars",
+                    "ru": "Выпуск коллекции из более 116 барсов",
+                    "tat": "Коллекцияләр чыгарылышы 116 барстан"
+                }
+            },
+            "play": {
+                "title": {
+                    "en": "Stage Two - Play to Learn",
+                    "ru": "Второй этап - Play to Learn",
+                    "tat": "Икенче этап - Play to Learn"
+                },
+                "subtitle": {
+                    "en": "Running a game using NFT for educational purposes",
+                    "ru": "Запуск игры с применением NFT в образователных целях",
+                    "tat": "Эшләтеп җибәрү уен кулланып NFT белем бирү максатларында"
+                }
+            },
+            "eco": {
+                "title": {
+                    "en": "Stage Three - Akbars Ecosystem",
+                    "ru": "Третий этап - Akbars экосистема",
+                    "tat": "Өченче этап-Akbars экосистема"
+                },
+                "subtitle": {
+                    "en": "Introducing tokenomics into the project",
+                    "ru": "Внедрение токеномики в проект",
+                    "tat": "Токеномиканы проектка кертү"
+                }
+            }
+        },
+        "header": {
+            "nav": {
+                "about": {
+                    "en": "About",
+                    "ru": "О проекте",
+                    "tat": "О проекте"
+                },
+                "home": {
+                    "en": "Home",
+                    "ru": "Главная",
+                    "tat": "Баш"
+                },
+                "vision": {
+                    "en": "Vision",
+                    "ru": "Виденье",
+                    "tat": "Күрем"
+                },
+                "team": {
+                    "en": "Team",
+                    "ru": "Команда",
+                    "tat": "Команда"
+                }
+            }
+        }
+    }
+}

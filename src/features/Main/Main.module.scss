@@ -1,0 +1,29 @@
+.Main {
+  height: calc(100vh - 71px);
+  position: relative;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.arrow {
+  width: 35px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 50px;
+}
+
+.face {
+  @media (max-width: 600px) {
+    transform: scale(0.65);
+  }
+  @media (max-width: 500px) {
+    transform: scale(0.45);
+  }
+  @media (max-width: 400px) {
+    transform: scale(0.35);
+  }
+}

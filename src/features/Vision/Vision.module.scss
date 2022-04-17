@@ -1,0 +1,62 @@
+.vision {
+  padding-top: 70px;
+}
+
+.title {
+  font-weight: 900;
+  margin: 0;
+  font-size: 46px;
+  line-height: 63px;
+  text-align: center;
+  margin-bottom: 40px;
+
+  @media (max-width: 979px) {
+    font-size: 40px;
+    line-height: 54px;
+  }
+
+  @media (max-width: 560px) {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}
+
+.block {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.titleBlock {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 35px;
+
+  @media (max-width: 480px) {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.subtitleBlock {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 25px;
+
+  @media (max-width: 480px) {
+    font-size: 17px;
+    line-height: 23px;
+  }
+}
+
+.img {
+  margin-left: 10px;
+}

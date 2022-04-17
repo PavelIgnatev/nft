@@ -1,0 +1,14 @@
+.navLink {
+  display: flex;
+  align-items: center;
+  color: white;
+  transition: all 0.2s ease-in-out;
+  font-size: 18px;
+  font-weight: 700;
+  height: 71px;
+  margin-left: 10px;
+
+  &:hover {
+    color: rgb(253, 42, 110);
+  }
+}
