@@ -13,9 +13,21 @@
                     "tat": "Young Rustam"
                 },
                 "work": {
-                    "en": "Developer, designer",
-                    "ru": "Разработчик, дизайнер",
-                    "tat": "Разработчик, дизайнчы"
+                    "en": "Developer, web-designer",
+                    "ru": "Разработчик, web-дизайнер",
+                    "tat": "Разработчик, web-Дизайнчы"
+                }
+            },
+            "lenar": {
+                "name": {
+                    "en": "Young Lenar",
+                    "ru": "Young Lenar",
+                    "tat": "Young Lenar"
+                },
+                "work": {
+                    "en": "3D-artist",
+                    "ru": "3D-artist",
+                    "tat": "3D-artist"
                 }
             },
             "pavel": {
@@ -25,9 +37,9 @@
                     "tat": "Young Pavel"
                 },
                 "work": {
-                    "en": "Developer, designer",
-                    "ru": "Разработчик, дизайнер",
-                    "tat": "Разработчик, дизайнчы"
+                    "en": "Developer",
+                    "ru": "Разработчик",
+                    "tat": "Разработчик"
                 }
             }
         },
